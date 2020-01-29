@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D Candidate in Transportation Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Texas at Arlington
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include traffic safety, humain behavior and intersection
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- traffic, pedestrian and bicyclist safety
+- drivers behavior at intersections
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Eng in Transportation Engineering
+    institution: University of Texas at Arlington
+    year: 2019
+ 
+  - course: BSc in Civil Engineering
+    institution: Bangladesh University of Engineering and Technology
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
